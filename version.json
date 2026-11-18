@@ -1,0 +1,9 @@
+{
+  "version": "1.7.0",
+  "minSupportedVersion": "1.7.0",
+  "mandatory": false,
+  "notes": "激活码跨版本通用，并加入检查更新。",
+  "crxUrl": "https://github.com/kevinchone35/itp-ticket-helper-releases/releases/download/v1.7.0/itp-ticket-helper.crx",
+  "zipUrl": "https://github.com/kevinchone35/itp-ticket-helper-releases/releases/download/v1.7.0/itp-ticket-helper.zip",
+  "publishedAt": "2026-11-18"
+}
